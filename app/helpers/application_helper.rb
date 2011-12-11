@@ -1,6 +1,6 @@
 module ApplicationHelper
   
   def logo
-    image_tag("nas.png", :alt => "Jonnies App", :class => "round")
+    image_tag("logo.png", :alt => "Jonnies App", :class => "round")
   end
 end

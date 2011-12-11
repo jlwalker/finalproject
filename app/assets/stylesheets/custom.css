@@ -3,7 +3,7 @@ width: 710px;
 }
 
 body {
-background: #cff;
+background: #0066CC;
 }
 
 header {
@@ -73,8 +73,8 @@ margin-right: auto;
 display: block;
 text-align: center;
 width: 190px;
-color: #fff;
-background: #005400;
+color: #000000;
+background: #6299C5;
 font-size: 150%;
 font-weight: bold;
 padding: 20px;
